@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: mawks12.github.io
 baseurl: "/communication-website" # the subpath of your site, e.g. /blog
 url: "https://mawks12.github.io"
-github_username:  mawks12
+github_username: mawks12
 
 # Build settings
 theme: jekyll-theme-tactile
